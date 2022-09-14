@@ -1,2 +1,2 @@
 # developer-android-courses
-My repository for <a href="https://developer.android.com/courses" ><p>Developer Android Courses</p></a>
+My repository for <a href="https://developer.android.com/courses" >Developer Android Courses</a>
